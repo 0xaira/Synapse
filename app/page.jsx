@@ -3,7 +3,6 @@ import AboutSectionTwo from "@/components/About/AboutSectionTwo";
 import Blog from "@/components/Blog";
 import Blog1 from "@/components/Blog1";
 import Blog2 from "@/components/Blog2";
-// import Brands from "@/components/Brands";
 import Contact from "@/components/Contact";
 import Features from "@/components/Features";
 import Hero from "@/components/Hero";
@@ -19,8 +18,7 @@ export default function Home() {
     <>
       <Hero />
       <Features />
-      <Video />
-      
+      <Video />   
       <AboutSectionOne />
       <AboutSectionTwo />
       <Testimonials />
@@ -29,7 +27,6 @@ export default function Home() {
       <Blog1 />
       <Blog2 />
       <Contact />
-      {/* <Brands /> */}
     </>
   );
 }
