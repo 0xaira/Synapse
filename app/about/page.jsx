@@ -7,7 +7,7 @@ const AboutPage = () => {
     <>
       <Breadcrumb
         pageName="About Page"
-        description="Lorem ipsum dolor sit amet, consectetur adipiscing elit. In varius eros eget sapien consectetur ultrices. Ut quis dapibus libero."
+        description="This is a community which provides free hands-on training in various fields of computer science and have an inclusive community focusing on a learn by building approach."
       />
       <AboutSectionOne />
       <AboutSectionTwo />
