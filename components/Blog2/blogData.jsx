@@ -6,8 +6,8 @@ const blogData = [
       "Build an AI NFT app with Next JS, IPFS, NFT storage, Open AI to mint AI generated images",
     image: "/images/blog/z3.avif",
     author: {
-      name: "Prajnajeet Ojha",
-      image: "/images/blog/author-02.png",
+      name: "Priyam Pradhan",
+      image: "/images/blog/i3.jpg",
       designation: "Data Scientist",
     },
     tags: ["AI/ML"],
@@ -35,7 +35,7 @@ const blogData = [
     image: "/images/blog/z4.jpg",
     author: {
       name: "Satyajit Bhoi",
-      image: "/images/blog/author-02.png",
+      image: "/images/blog/i2.jpg",
       designation: "Web Developer",
     },
     tags: ["web"],

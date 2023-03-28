@@ -22,7 +22,7 @@ const Pricing = () => {
             packageName="01"
             price={isMonthly ? "Web Development" : "120"}
             duration={isMonthly ? " " : "yr"}
-            subtitle="Lorem ipsum dolor sit amet adiscing elit Mauris egestas enim."
+            subtitle="Mastering Full Stack Web Development(Frontend+Backend)"
           >
             <OfferList text="Version Control" status="active" />
             <OfferList text="Frontend" status="active" />
@@ -35,7 +35,7 @@ const Pricing = () => {
             packageName="02"
             price={isMonthly ? "Open Source" : "789"}
             duration={isMonthly ? " " : "yr"}
-            subtitle="Lorem ipsum dolor sit amet adiscing elit Mauris egestas enim."
+            subtitle="Collaborative Programming and Community Building"
           >
             <OfferList text="Programming" status="active" />
             <OfferList text="Version Control" status="active" />
@@ -48,7 +48,7 @@ const Pricing = () => {
             packageName="03"
             price={isMonthly ? "DSA/CP" : "999"}
             duration={isMonthly ? "" : "yr"}
-            subtitle="Lorem ipsum dolor sit amet adiscing elit Mauris egestas enim."
+            subtitle="The Art of Efficient Programming and Problem Solving"
           >
             <OfferList text="Programming Basics" status="active" />
             <OfferList text="Basic DSA" status="active" />
@@ -62,7 +62,7 @@ const Pricing = () => {
             packageName="04"
             price={isMonthly ? "UI/UX" : "999"}
             duration={isMonthly ? "" : "yr"}
-            subtitle="Lorem ipsum dolor sit amet adiscing elit Mauris egestas enim."
+            subtitle="Crafting User Experiences for Mobile & Web"
           >
             <OfferList text="UI Design tools" status="active" />
             <OfferList text="Design Principles" status="active" />
@@ -73,9 +73,9 @@ const Pricing = () => {
           </PricingBox>
           <PricingBox
             packageName="05"
-            price={isMonthly ? "Web3 Development" : "999"}
+            price={isMonthly ? "Web3 " : "999"}
             duration={isMonthly ? " " : "yr"}
-            subtitle="Lorem ipsum dolor sit amet adiscing elit Mauris egestas enim."
+            subtitle="Building Decentralized Applications for the Future Web"
           >
             <OfferList text="Frontend" status="active" />
             <OfferList text="Backend" status="active" />
@@ -88,7 +88,7 @@ const Pricing = () => {
             packageName="06"
             price={isMonthly ? "AI/ML" : "999"}
             duration={isMonthly ? " " : "yr"}
-            subtitle="Lorem ipsum dolor sit amet adiscing elit Mauris egestas enim."
+            subtitle=" Represent an important evolution in computer science "
           >
             <OfferList text="Python" status="active" />
             <OfferList text="Data Collection" status="active" />
