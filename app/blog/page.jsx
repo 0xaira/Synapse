@@ -7,7 +7,7 @@ const Blog = () => {
     <>
       <Breadcrumb
         pageName="Blog Grid"
-        description="tay Up-to-Date with Our Latest Insights: From Tech Trends to Industry Developments and More"
+        description="Stay Up-to-Date with Our Latest Insights: From Tech Trends to Industry Developments and More"
       />
 
       <section className="pt-[120px] pb-[120px]">
