@@ -3,7 +3,7 @@ const blogData = [
     id: 1,
     title: "Build an AI NFT minting app",
     paragraph:
-      "Build an AI NFT app with Next JS, IPFS, NFT storage, Open AI to mint AI generated images",
+      "Build an AI NFT app with Next JS, IPFS, Open AI to mint AI generated images",
     image: "/images/blog/z3.avif",
     author: {
       name: "Priyam Pradhan",

@@ -7,7 +7,7 @@ const blogData = [
     image: "/images/blog/f2.png",
     author: {
       name: "Priyam Pradhan",
-      image: "/images/blog/author-02.png",
+      image: "/images/blog/i3.jpg",
       designation: "Frontend Developer",
     },
     tags: ["Web"],
@@ -21,7 +21,7 @@ const blogData = [
     image: "/images/blog/f1.jpg",
     author: {
       name: "Sai Kanha",
-      image: "/images/blog/author-02.png",
+      image: "/images/blog/i1.jpg",
       designation: "UI/UX Designer",
     },
     tags: ["Design"],
