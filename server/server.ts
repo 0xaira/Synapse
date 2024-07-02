@@ -2,7 +2,7 @@ import express, { Request, Response } from "express";
 import { chats } from "./data/data";
 import dotenv from "dotenv";
 
-const PORT= process.env.PORT || 3000;
+const PORT= process.env.PORT || 5000;
 const app = express();
 dotenv.config();
 
