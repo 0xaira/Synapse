@@ -1,11 +1,12 @@
 import express, { Request, Response } from "express";
 import { chats } from "./data/data";
 import dotenv from "dotenv";
+import connectToDatabase from "./db";
 
 const PORT= process.env.PORT || 5000;
 const app = express();
 dotenv.config();
-
+connectToDatabase;
 app.get("/", (req: Request, res: Response) => {
     res.send("API is running");
 });
